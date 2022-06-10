@@ -1,0 +1,9 @@
+.text-logo {
+    /* font-size: 1.2rem;s */
+    font-weight: 100;
+}
+
+.text-logo-accent {
+    font-weight: 400;
+    color: rgb(50, 206, 115);
+}
